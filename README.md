@@ -1,3 +1,6 @@
+![_6b68d7c2-eedf-418c-918c-3a97410f33b9](https://github.com/Miguell-J/Calculadora-Java/assets/138534658/63404ffa-f8dc-4b8e-ad1f-6f2de02f6e7f)
+
+
 # Calculadora em Java
 Este é um simples programa de calculadora implementado em Java. A calculadora solicita dois números e uma operação matemática básica (+, -, *, /) ao usuário e exibe o resultado da operação.
 
